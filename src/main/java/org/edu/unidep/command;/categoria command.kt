@@ -1,0 +1,6 @@
+
+
+
+
+class `categoria command` {
+}
